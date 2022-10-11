@@ -26,7 +26,7 @@ O desempenho de cada modelo treinado, após validação cruzada. As colunas corr
 
 <h1> 5) Conclusão </h1>
 
-  Como podemos ver, esses modelos possuem um RMSE amplo indicando que esse fenômeno estudado não pode ser modelado usando modelos lineares de aprendizado de máquina. No entanto, a previsão de vendas e os insights gerados fornecem ao CEO ferramentas valiosas para decidir o valor do orçamento que será dedicado à restauração de cada loja.
+Como podemos ver, esses modelos possuem um RMSE amplo indicando que esse fenômeno estudado não pode ser modelado usando modelos lineares de aprendizado de máquina. No entanto, a previsão de vendas e os insights gerados fornecem ao CEO ferramentas valiosas para decidir o valor do orçamento que será dedicado à restauração de cada loja.
   
   
   
