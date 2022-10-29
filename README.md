@@ -18,7 +18,7 @@ A receita bruta esperada da maioria das lojas Rossman encontradas foi: no Melhor
   
 
 <h1> 4) Machine Learning Performance </h1>
-O desempenho de cada modelo treinado, após validação cruzada. As colunas correspondem às métricas: Erro Absoluto Médio, Erro Percentual Absoluto Médio e Erro Quadrado Médio Médio.
+O desempenho de cada modelo treinado, após validação cruzada. As colunas correspondem às métricas: Erro Absoluto Médio(MAE), Erro Percentual Absoluto Médio(MAPE) e Erro Quadrado Médio(RMSE).
 
 
 <img src="/img/Machine.png" alt="machine"/>
