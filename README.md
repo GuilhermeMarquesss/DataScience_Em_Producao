@@ -1,6 +1,8 @@
+# Rossmann_Predict
+
 <img src="/img/Rossmann.jpg" alt="rossmann"/>
 
-# Context
+## Context
 
 The Rossmann drugstore chain stores need to be renovated and the CEO needs to decide how much to dedicate to restoring each one. The chief financial officer (CFO) required forecasting models for the analytics team to support their decision on how much budget at each store needs to be allocated.
 
