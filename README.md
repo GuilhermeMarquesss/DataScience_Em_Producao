@@ -2,7 +2,7 @@
 
 <img src="/img/Rossmann.jpg" alt="rossmann"/>
 
-## Context
+## Contexto
 
 As lojas da rede de drogarias Rossmann precisam ser reformadas e o CEO precisa decidir quanto dedicar para restaurar cada uma. O diretor financeiro (CFO) solicitou modelos de previsão para a equipe de análise para apoiar sua decisão sobre quanto orçamento em cada loja precisa ser alocado.
 
